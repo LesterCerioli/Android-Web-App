@@ -1,0 +1,9 @@
+androidx.wear.widget.BoxInsetLayout;obj\Debug\120\res\layout\activity_main.xml
+dimen;obj\Debug\120\res\values\dimens.xml
+FrameLayout;obj\Debug\120\res\layout\activity_main.xml
+resources;obj\Debug\120\res\values\dimens.xml
+resources;obj\Debug\120\res\values\strings.xml
+resources;obj\Debug\120\res\values-round\strings.xml
+string;obj\Debug\120\res\values\strings.xml
+string;obj\Debug\120\res\values-round\strings.xml
+TextView;obj\Debug\120\res\layout\activity_main.xml

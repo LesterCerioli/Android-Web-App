@@ -1,0 +1,8 @@
+D:\Users\leste\repositories\GitHub\Enterprise\Android Web\AndroidWeb.test\AndroidWeb.test\AndroidWeb.test\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
+D:\Users\leste\repositories\GitHub\Enterprise\Android Web\AndroidWeb.test\AndroidWeb.test\AndroidWeb.test\obj\Debug\120\build.props
+D:\Users\leste\repositories\GitHub\Enterprise\Android Web\AndroidWeb.test\AndroidWeb.test\AndroidWeb.test\obj\Debug\120\adb.props
+D:\Users\leste\repositories\GitHub\Enterprise\Android Web\AndroidWeb.test\AndroidWeb.test\AndroidWeb.test\obj\Debug\120\AndroidWeb.test.csproj.AssemblyReference.cache
+D:\Users\leste\repositories\GitHub\Enterprise\Android Web\AndroidWeb.test\AndroidWeb.test\AndroidWeb.test\obj\Debug\120\stamp\_BuildLibraryImportsCache.stamp
+D:\Users\leste\repositories\GitHub\Enterprise\Android Web\AndroidWeb.test\AndroidWeb.test\AndroidWeb.test\obj\Debug\120\res.flag
+D:\Users\leste\repositories\GitHub\Enterprise\Android Web\AndroidWeb.test\AndroidWeb.test\AndroidWeb.test\obj\Debug\120\stamp\_AndroidXJetifyEmbeddedFiles.stamp
+D:\Users\leste\repositories\GitHub\Enterprise\Android Web\AndroidWeb.test\AndroidWeb.test\AndroidWeb.test\obj\Debug\120\androidx\_AndroidXJetifyEmbeddedFiles.jetify
